@@ -19,3 +19,16 @@ DOMAIN-KEYWORD,apple.com.akadns.net,Apple
 DOMAIN-KEYWORD,apple.com.edgekey.net,Apple
 DOMAIN-KEYWORD,apple-support.akadns.net,Apple
 DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,smoot.apple.com,Apple
+DOMAIN,amp-api.podcasts.apple.com,Apple
+DOMAIN,beta.music.apple.com,Apple
+DOMAIN,books.itunes.apple.com,Apple
+DOMAIN,lookup-api.apple.com,Apple
+DOMAIN,radio.itunes.apple.com,Apple
+# > Web Preview
+DOMAIN,apps.apple.com,Apple
+DOMAIN,books.apple.com,Apple
+DOMAIN,itunes.apple.com,Apple
+DOMAIN,tv.apple.com,Apple
